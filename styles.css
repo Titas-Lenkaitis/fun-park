@@ -1,0 +1,10 @@
+.page {
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+}
+
+.pagehead {
+display: flex;
+align-self: center;
+}
