@@ -113,6 +113,7 @@ body {
     margin-top: 50px;
     gap: 150px;
     padding-bottom: 25px;
+    color: #06004a;
 }
 
 .div2-2p {
@@ -124,6 +125,7 @@ body {
     border: 3px solid #930606;
     border-radius: 35px;
     padding: 8px;
+    background-color: #ffd199;
 }
 
 .div2-2img {
@@ -138,4 +140,108 @@ body {
     padding: 30px;
     border-radius: 40px;
     background-color: #ffbf70;
+}
+
+
+.div3 {
+    display: flex;
+    background-color: #ffa536;
+    padding: 50px;
+    color: #06004a;
+    align-items: center;
+    border-top: 4px solid #930606;
+    border-bottom: 4px solid #930606;
+    justify-content: center;
+}
+
+.div3-1 {
+    font-size: 28px;
+    max-width: 750px;
+    font-style: italic;
+    border: 4px solid #930606;
+    padding-left: 96px;
+    padding-right: 96px;
+    border-radius: 42px;
+    background-color: #ffbf70;
+}
+
+.div3-1-1 {
+    font-weight: bold;
+    text-align: end;
+}
+
+.div3img {
+    padding-left: 48px;
+    padding-right: 48px;
+}
+
+
+
+.div4 {
+    display: flex;
+    background-color: #fff5f5;
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    color: #06004a;
+}
+
+.div4-1 {
+    display: flex;
+    background-color: #ffbf70;
+    align-items: center;
+    width: 1500px;
+    border: 6px solid #930606;
+    border-radius: 56px;
+}
+
+.div4-1-1 {
+    margin-right: auto;
+    margin-left: 56px;
+    padding: 24px 0px;
+}
+
+.div4-1-1h {
+    font-size: 48px;
+}
+
+.div4-1-1p {
+    font-size: 24px;
+}
+
+.div4-1-2 {
+    margin-right: 56px;
+}
+
+.div4-1-2button {
+    background-color: #ffd199;
+    padding: 18px 36px;
+    font-size: 24px;
+    border: 4px solid #930606;
+    border-radius: 48px;
+}
+
+
+
+.div5 {
+    background-color: #290202;
+    display: flex;
+    color: #fff5f5;
+    font-size: 24px;
+    align-items: center;
+}
+
+.div5-1 {
+    margin-right: auto;
+    margin-left: 80px;
+}
+
+.div5-2 {
+    margin-left: auto;
+    margin-right: 80px;
+}
+
+.div5-1img {
+    height: 100px;
+    width: auto;
 }
