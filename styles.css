@@ -3,6 +3,8 @@ body {
     flex-direction: column;
     margin: 0;
     font-family: Helvetica;
+    min-height: 100vh;
+    flex-grow: 1;
 }
 
 .header {
@@ -184,6 +186,7 @@ body {
     padding-top: 80px;
     padding-bottom: 80px;
     color: #06004a;
+    flex-grow: 1;
 }
 
 .div4-1 {
@@ -193,6 +196,7 @@ body {
     width: 1500px;
     border: 6px solid #930606;
     border-radius: 56px;
+    max-height: 210px;
 }
 
 .div4-1-1 {
@@ -229,6 +233,7 @@ body {
     color: #fff5f5;
     font-size: 24px;
     align-items: center;
+    margin-top: auto;
 }
 
 .div5-1 {
