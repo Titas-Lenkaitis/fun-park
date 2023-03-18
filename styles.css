@@ -116,7 +116,7 @@ body {
     margin-top: 50px;
     gap: 150px;
     padding-bottom: 25px;
-    color: #06004a;
+    color: #330000;
     flex-wrap: wrap;
 }
 
@@ -151,7 +151,7 @@ body {
     display: flex;
     background-color: #ffa536;
     padding: 50px;
-    color: #06004a;
+    color: #330000;
     align-items: center;
     border-top: 4px solid #930606;
     border-bottom: 4px solid #930606;
@@ -189,7 +189,7 @@ body {
     justify-content: center;
     padding-top: 80px;
     padding-bottom: 80px;
-    color: #06004a;
+    color: #330000;
     flex-grow: 1;
     flex-shrink: 1;
 }
